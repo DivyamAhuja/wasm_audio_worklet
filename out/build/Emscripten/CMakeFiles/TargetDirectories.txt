@@ -1,0 +1,3 @@
+C:/Users/zero/Desktop/AudioWorklet/out/build/Emscripten/CMakeFiles/wasm_processor.dir
+C:/Users/zero/Desktop/AudioWorklet/out/build/Emscripten/CMakeFiles/edit_cache.dir
+C:/Users/zero/Desktop/AudioWorklet/out/build/Emscripten/CMakeFiles/rebuild_cache.dir
